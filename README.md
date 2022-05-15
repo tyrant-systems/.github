@@ -1,2 +1,5 @@
 # .github
-README.md
+
+* * *
+
+This repository hosts org public profile assets.
